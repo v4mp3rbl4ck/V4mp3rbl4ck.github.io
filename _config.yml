@@ -33,7 +33,8 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook               : # https://developers.facebook.com/docs/plugins/comments
+  facebook:
+  # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -103,8 +104,13 @@ author:
   name             : "V4mp3rbl4ck"
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, CTF player<br>HackTheBox ATeam"
+<<<<<<< HEAD
   location         : "Chile"
   email            : "mail@v4mp3rbl4ck.io"
+=======
+  location         : "Canada"
+  email            : "mail.v4mp3rbl4ck.io"
+>>>>>>> c1da3960e3fe9ce0065a248bc3ead33f3415888d
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
